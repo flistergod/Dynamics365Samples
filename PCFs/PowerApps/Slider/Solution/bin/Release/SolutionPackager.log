@@ -1,0 +1,57 @@
+2021-11-17 11:06:15.150 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\PoweApps\Slider\Solution\obj\Release\Metadata to bin\Release\Solution.zip
+
+2021-11-17 11:06:15.165 - Info	Processing Component: Entities
+2021-11-17 11:06:15.171 - Info	Processing Component: Roles
+2021-11-17 11:06:15.175 - Info	Processing Component: Workflows
+2021-11-17 11:06:15.175 - Info	Processing Component: FieldSecurityProfiles
+2021-11-17 11:06:15.177 - Info	Processing Component: Templates
+2021-11-17 11:06:15.178 - Info	Processing Component: EntityMaps
+2021-11-17 11:06:15.179 - Info	Processing Component: EntityRelationships
+2021-11-17 11:06:15.185 - Info	Processing Component: OrganizationSettings
+2021-11-17 11:06:15.187 - Info	Processing Component: optionsets
+2021-11-17 11:06:15.187 - Info	Processing Component: CustomControls
+2021-11-17 11:06:15.197 - Info	 - PCFSlider.Slider
+2021-11-17 11:06:15.202 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-17 11:06:15.203 - Info	Processing Component: EntityDataProviders
+2021-11-17 11:06:15.235 - Info	
+Managed Pack complete.
+
+2021-11-17 12:25:48.341 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\PoweApps\Slider\Solution\obj\Release\Metadata to bin\Release\Solution.zip
+
+2021-11-17 12:25:48.356 - Info	Processing Component: Entities
+2021-11-17 12:25:48.360 - Info	Processing Component: Roles
+2021-11-17 12:25:48.365 - Info	Processing Component: Workflows
+2021-11-17 12:25:48.365 - Info	Processing Component: FieldSecurityProfiles
+2021-11-17 12:25:48.366 - Info	Processing Component: Templates
+2021-11-17 12:25:48.368 - Info	Processing Component: EntityMaps
+2021-11-17 12:25:48.368 - Info	Processing Component: EntityRelationships
+2021-11-17 12:25:48.374 - Info	Processing Component: OrganizationSettings
+2021-11-17 12:25:48.375 - Info	Processing Component: optionsets
+2021-11-17 12:25:48.376 - Info	Processing Component: CustomControls
+2021-11-17 12:25:48.386 - Info	 - PCFSlider.Slider
+2021-11-17 12:25:48.389 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-17 12:25:48.390 - Info	Processing Component: EntityDataProviders
+2021-11-17 12:25:48.411 - Info	
+Managed Pack complete.
+
+2021-11-17 12:32:06.757 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\PoweApps\Slider\Solution\obj\Release\Metadata to bin\Release\Solution.zip
+
+2021-11-17 12:32:06.771 - Info	Processing Component: Entities
+2021-11-17 12:32:06.775 - Info	Processing Component: Roles
+2021-11-17 12:32:06.779 - Info	Processing Component: Workflows
+2021-11-17 12:32:06.780 - Info	Processing Component: FieldSecurityProfiles
+2021-11-17 12:32:06.781 - Info	Processing Component: Templates
+2021-11-17 12:32:06.782 - Info	Processing Component: EntityMaps
+2021-11-17 12:32:06.783 - Info	Processing Component: EntityRelationships
+2021-11-17 12:32:06.788 - Info	Processing Component: OrganizationSettings
+2021-11-17 12:32:06.790 - Info	Processing Component: optionsets
+2021-11-17 12:32:06.790 - Info	Processing Component: CustomControls
+2021-11-17 12:32:06.800 - Info	 - PCFSlider.Slider
+2021-11-17 12:32:06.804 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-17 12:32:06.806 - Info	Processing Component: EntityDataProviders
+2021-11-17 12:32:06.826 - Info	
+Managed Pack complete.
+

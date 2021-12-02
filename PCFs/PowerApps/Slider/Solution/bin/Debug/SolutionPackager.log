@@ -1,0 +1,38 @@
+2021-11-17 11:00:36.975 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\PoweApps\Slider\Solution\obj\Debug\Metadata to bin\Debug\Solution.zip
+
+2021-11-17 11:00:36.990 - Info	Processing Component: Entities
+2021-11-17 11:00:36.995 - Info	Processing Component: Roles
+2021-11-17 11:00:36.999 - Info	Processing Component: Workflows
+2021-11-17 11:00:36.999 - Info	Processing Component: FieldSecurityProfiles
+2021-11-17 11:00:37.001 - Info	Processing Component: Templates
+2021-11-17 11:00:37.003 - Info	Processing Component: EntityMaps
+2021-11-17 11:00:37.004 - Info	Processing Component: EntityRelationships
+2021-11-17 11:00:37.009 - Info	Processing Component: OrganizationSettings
+2021-11-17 11:00:37.010 - Info	Processing Component: optionsets
+2021-11-17 11:00:37.011 - Info	Processing Component: CustomControls
+2021-11-17 11:00:37.021 - Info	 - PCFSlider.Slider
+2021-11-17 11:00:37.025 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-17 11:00:37.027 - Info	Processing Component: EntityDataProviders
+2021-11-17 11:00:37.068 - Info	
+Unmanaged Pack complete.
+
+2021-11-17 12:25:34.228 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\PoweApps\Slider\Solution\obj\Debug\Metadata to bin\Debug\Solution.zip
+
+2021-11-17 12:25:34.242 - Info	Processing Component: Entities
+2021-11-17 12:25:34.247 - Info	Processing Component: Roles
+2021-11-17 12:25:34.251 - Info	Processing Component: Workflows
+2021-11-17 12:25:34.252 - Info	Processing Component: FieldSecurityProfiles
+2021-11-17 12:25:34.253 - Info	Processing Component: Templates
+2021-11-17 12:25:34.255 - Info	Processing Component: EntityMaps
+2021-11-17 12:25:34.256 - Info	Processing Component: EntityRelationships
+2021-11-17 12:25:34.261 - Info	Processing Component: OrganizationSettings
+2021-11-17 12:25:34.262 - Info	Processing Component: optionsets
+2021-11-17 12:25:34.263 - Info	Processing Component: CustomControls
+2021-11-17 12:25:34.272 - Info	 - PCFSlider.Slider
+2021-11-17 12:25:34.276 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-17 12:25:34.278 - Info	Processing Component: EntityDataProviders
+2021-11-17 12:25:34.307 - Info	
+Unmanaged Pack complete.
+

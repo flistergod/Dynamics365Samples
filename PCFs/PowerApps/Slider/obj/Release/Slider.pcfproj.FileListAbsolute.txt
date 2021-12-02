@@ -1,0 +1,2 @@
+C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\PoweApps\Slider\obj\Release\Slider.pcfproj.AssemblyReference.cache
+C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\PoweApps\Slider\obj\Release\Slider.pcfproj.CoreCompileInputs.cache

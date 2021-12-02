@@ -1,0 +1,37 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+  
+  > pcf-project@1.0.0 clean
+  > pcf-scripts clean "--noColor" "--buildMode" "development" "--outDir" "C:\\Users\\Findmore\\Desktop\\Dynamics\\Samples\\PCFs\\PoweApps\\Slider\\out\\controls" "--buildSource" "MSBuild"
+  
+  [14:09:54] [clean]  Initializing...
+  [14:09:54] [clean]  Cleaning build outputs...
+  [14:09:54] [clean]  Succeeded
+  Cleaning output directory: bin\Debug\, Intermediate directory: obj\Debug\ and Solution Packager working directory: obj\Debug\
+  Removing log file: bin\Debug\SolutionPackager.log and generated solution package: bin\Debug\PowerAppsTools_del.zip
+  
+  > pcf-project@1.0.0 build
+  > pcf-scripts build "--noColor" "--buildMode" "development" "--outDir" "C:\\Users\\Findmore\\Desktop\\Dynamics\\Samples\\PCFs\\PoweApps\\Slider\\out\\controls" "--buildSource" "MSBuild"
+  
+  [14:09:57] [build]  Initializing...
+  [14:09:57] [build]  Validating manifest...
+  [14:09:57] [build]  Validating control...
+  [14:09:59] [build]  Generating manifest types...
+  [14:09:59] [build]  Generating design types...
+  [14:09:59] [build]  Compiling and bundling control...
+  [Webpack stats]:
+  Hash: 8e6c262a0e044925cda9
+  Version: webpack 4.42.1
+  Time: 1944ms
+  Built at: 17/11/2021 14:10:01
+      Asset      Size  Chunks             Chunk Names
+  bundle.js  8.99 KiB    main  [emitted]  main
+  Entrypoint main = bundle.js
+  [./Slider/index.ts] 4.92 KiB {main} [built]
+  [14:10:01] [build]  Generating build outputs...
+  [14:10:01] [build]  Succeeded
+  [pcf-1059] [Info] Did not detect a themed control. Processing as regular control.
+  Running Solution Packager to build package type: Unmanaged bin\Debug\PowerAppsTools_del.zip
+  Solution: bin\Debug\PowerAppsTools_del.zip generated.
+  Solution Package Type: Unmanaged generated.
+  Completed intermiediate files clean up.

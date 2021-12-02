@@ -1,0 +1,19 @@
+2021-11-17 14:10:02.225 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\PoweApps\Slider\obj\PowerAppsTools_del\obj\Debug\Metadata to bin\Debug\PowerAppsTools_del.zip
+
+2021-11-17 14:10:02.239 - Info	Processing Component: Entities
+2021-11-17 14:10:02.242 - Info	Processing Component: Roles
+2021-11-17 14:10:02.245 - Info	Processing Component: Workflows
+2021-11-17 14:10:02.245 - Info	Processing Component: FieldSecurityProfiles
+2021-11-17 14:10:02.245 - Info	Processing Component: Templates
+2021-11-17 14:10:02.246 - Info	Processing Component: EntityMaps
+2021-11-17 14:10:02.246 - Info	Processing Component: EntityRelationships
+2021-11-17 14:10:02.252 - Info	Processing Component: OrganizationSettings
+2021-11-17 14:10:02.253 - Info	Processing Component: optionsets
+2021-11-17 14:10:02.253 - Info	Processing Component: CustomControls
+2021-11-17 14:10:02.261 - Info	 - PCFSlider.Slider
+2021-11-17 14:10:02.264 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-17 14:10:02.265 - Info	Processing Component: EntityDataProviders
+2021-11-17 14:10:02.298 - Info	
+Unmanaged Pack complete.
+

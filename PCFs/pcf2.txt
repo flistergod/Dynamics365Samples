@@ -1,0 +1,24 @@
+pac pcf init --namespace canvasdnd --name canvasdnd --template dataset
+npm install
+code .
+npm install react react-dom office-ui-react
+npm install @types/react --save-dev
+npm run build
+npm start
+mkdir TextInputControllerSolution
+cd TextInputControllerSolution
+pac solution init --publisher-name Deloitte --publisher-prefix del
+pac solution add-reference --path C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\Forms\TextInput
+msbuild /t:restore
+msbuild
+msbuild /p:configuration=Release
+pac auth list
+pac who org
+cd ..
+pac auth create --url ahahaha.dynamics.com/ 
+pac pcf push --publisher-prefix del or pac pcf push -pp del
+
+
+para atualizar - pac pcf push -pp del
+
+

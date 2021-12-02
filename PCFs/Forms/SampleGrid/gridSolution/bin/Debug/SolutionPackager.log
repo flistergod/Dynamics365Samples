@@ -1,0 +1,19 @@
+2021-11-19 18:13:42.093 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\Forms\SampleGrid\gridSolution\obj\Debug\Metadata to bin\Debug\gridSolution.zip
+
+2021-11-19 18:13:42.106 - Info	Processing Component: Entities
+2021-11-19 18:13:42.110 - Info	Processing Component: Roles
+2021-11-19 18:13:42.114 - Info	Processing Component: Workflows
+2021-11-19 18:13:42.115 - Info	Processing Component: FieldSecurityProfiles
+2021-11-19 18:13:42.116 - Info	Processing Component: Templates
+2021-11-19 18:13:42.117 - Info	Processing Component: EntityMaps
+2021-11-19 18:13:42.118 - Info	Processing Component: EntityRelationships
+2021-11-19 18:13:42.124 - Info	Processing Component: OrganizationSettings
+2021-11-19 18:13:42.126 - Info	Processing Component: optionsets
+2021-11-19 18:13:42.127 - Info	Processing Component: CustomControls
+2021-11-19 18:13:42.136 - Info	 - GridController.GridController
+2021-11-19 18:13:42.140 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-19 18:13:42.144 - Info	Processing Component: EntityDataProviders
+2021-11-19 18:13:42.179 - Info	
+Unmanaged Pack complete.
+

@@ -1,0 +1,38 @@
+2021-11-17 16:14:05.733 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\Forms\TextInput\TextInputControllerSolution\obj\Debug\Metadata to bin\Debug\TextInputControllerSolution.zip
+
+2021-11-17 16:14:05.754 - Info	Processing Component: Entities
+2021-11-17 16:14:05.760 - Info	Processing Component: Roles
+2021-11-17 16:14:05.766 - Info	Processing Component: Workflows
+2021-11-17 16:14:05.766 - Info	Processing Component: FieldSecurityProfiles
+2021-11-17 16:14:05.768 - Info	Processing Component: Templates
+2021-11-17 16:14:05.770 - Info	Processing Component: EntityMaps
+2021-11-17 16:14:05.771 - Info	Processing Component: EntityRelationships
+2021-11-17 16:14:05.777 - Info	Processing Component: OrganizationSettings
+2021-11-17 16:14:05.781 - Info	Processing Component: optionsets
+2021-11-17 16:14:05.782 - Info	Processing Component: CustomControls
+2021-11-17 16:14:05.792 - Info	 - TextInputController.TextInputController
+2021-11-17 16:14:05.798 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-17 16:14:05.802 - Info	Processing Component: EntityDataProviders
+2021-11-17 16:14:05.957 - Info	
+Unmanaged Pack complete.
+
+2021-11-17 17:39:58.904 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\Forms\TextInput\TextInputControllerSolution\obj\Debug\Metadata to bin\Debug\TextInputControllerSolution.zip
+
+2021-11-17 17:39:58.922 - Info	Processing Component: Entities
+2021-11-17 17:39:58.928 - Info	Processing Component: Roles
+2021-11-17 17:39:58.935 - Info	Processing Component: Workflows
+2021-11-17 17:39:58.936 - Info	Processing Component: FieldSecurityProfiles
+2021-11-17 17:39:58.938 - Info	Processing Component: Templates
+2021-11-17 17:39:58.940 - Info	Processing Component: EntityMaps
+2021-11-17 17:39:58.941 - Info	Processing Component: EntityRelationships
+2021-11-17 17:39:58.948 - Info	Processing Component: OrganizationSettings
+2021-11-17 17:39:58.949 - Info	Processing Component: optionsets
+2021-11-17 17:39:58.951 - Info	Processing Component: CustomControls
+2021-11-17 17:39:58.962 - Info	 - TextInputController.TextInputController
+2021-11-17 17:39:58.969 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-17 17:39:58.971 - Info	Processing Component: EntityDataProviders
+2021-11-17 17:39:59.102 - Info	
+Unmanaged Pack complete.
+

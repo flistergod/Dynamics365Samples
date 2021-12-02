@@ -1,0 +1,19 @@
+2021-11-19 18:15:18.261 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\Forms\SampleGrid\obj\PowerAppsTools_del\obj\Debug\Metadata to bin\Debug\PowerAppsTools_del.zip
+
+2021-11-19 18:15:18.282 - Info	Processing Component: Entities
+2021-11-19 18:15:18.287 - Info	Processing Component: Roles
+2021-11-19 18:15:18.293 - Info	Processing Component: Workflows
+2021-11-19 18:15:18.293 - Info	Processing Component: FieldSecurityProfiles
+2021-11-19 18:15:18.294 - Info	Processing Component: Templates
+2021-11-19 18:15:18.295 - Info	Processing Component: EntityMaps
+2021-11-19 18:15:18.296 - Info	Processing Component: EntityRelationships
+2021-11-19 18:15:18.304 - Info	Processing Component: OrganizationSettings
+2021-11-19 18:15:18.305 - Info	Processing Component: optionsets
+2021-11-19 18:15:18.305 - Info	Processing Component: CustomControls
+2021-11-19 18:15:18.315 - Info	 - GridController.GridController
+2021-11-19 18:15:18.319 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-19 18:15:18.320 - Info	Processing Component: EntityDataProviders
+2021-11-19 18:15:18.347 - Info	
+Unmanaged Pack complete.
+

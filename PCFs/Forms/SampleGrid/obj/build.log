@@ -1,0 +1,38 @@
+﻿  Determining projects to restore...
+  Restored C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\Forms\SampleGrid\obj\PowerAppsTools_del\PowerAppsTools_del.cdsproj (in 771 ms).
+  1 of 2 projects are up-to-date for restore.
+  
+  > pcf-project@1.0.0 clean
+  > pcf-scripts clean "--noColor" "--buildMode" "development" "--outDir" "C:\\Users\\Findmore\\Desktop\\Dynamics\\Samples\\PCFs\\Forms\\SampleGrid\\out\\controls" "--buildSource" "MSBuild"
+  
+  [18:15:02] [clean]  Initializing...
+  [18:15:02] [clean]  Cleaning build outputs...
+  [18:15:02] [clean]  Succeeded
+  Cleaning output directory: bin\Debug\, Intermediate directory: obj\Debug\ and Solution Packager working directory: obj\Debug\
+  Removing log file: bin\Debug\SolutionPackager.log and generated solution package: bin\Debug\PowerAppsTools_del.zip
+  
+  > pcf-project@1.0.0 build
+  > pcf-scripts build "--noColor" "--buildMode" "development" "--outDir" "C:\\Users\\Findmore\\Desktop\\Dynamics\\Samples\\PCFs\\Forms\\SampleGrid\\out\\controls" "--buildSource" "MSBuild"
+  
+  [18:15:07] [build]  Initializing...
+  [18:15:07] [build]  Validating manifest...
+  [18:15:07] [build]  Validating control...
+  [18:15:11] [build]  Generating manifest types...
+  [18:15:11] [build]  Generating design types...
+  [18:15:11] [build]  Compiling and bundling control...
+  [Webpack stats]:
+  Hash: c93f682c4f3847a57e7f
+  Version: webpack 4.42.1
+  Time: 3509ms
+  Built at: 19/11/2021 18:15:14
+      Asset      Size  Chunks             Chunk Names
+  bundle.js  6.47 KiB    main  [emitted]  main
+  Entrypoint main = bundle.js
+  [./GridController/index.ts] 2.46 KiB {main} [built]
+  [18:15:14] [build]  Generating build outputs...
+  [18:15:14] [build]  Succeeded
+  [pcf-1059] [Info] Did not detect a themed control. Processing as regular control.
+  Running Solution Packager to build package type: Unmanaged bin\Debug\PowerAppsTools_del.zip
+  Solution: bin\Debug\PowerAppsTools_del.zip generated.
+  Solution Package Type: Unmanaged generated.
+  Completed intermiediate files clean up.

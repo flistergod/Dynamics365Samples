@@ -1,0 +1,53 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+  
+  > pcf-project@1.0.0 clean
+  > pcf-scripts clean "--noColor" "--buildMode" "development" "--outDir" "C:\\Users\\Findmore\\Desktop\\Dynamics\\Samples\\PCFs\\Forms\\TextInput\\out\\controls" "--buildSource" "MSBuild"
+  
+  [18:01:40] [clean]  Initializing...
+  [18:01:40] [clean]  Cleaning build outputs...
+  [18:01:40] [clean]  Succeeded
+  Cleaning output directory: bin\Debug\, Intermediate directory: obj\Debug\ and Solution Packager working directory: obj\Debug\
+  Removing log file: bin\Debug\SolutionPackager.log and generated solution package: bin\Debug\PowerAppsTools_del.zip
+  
+  > pcf-project@1.0.0 build
+  > pcf-scripts build "--noColor" "--buildMode" "development" "--outDir" "C:\\Users\\Findmore\\Desktop\\Dynamics\\Samples\\PCFs\\Forms\\TextInput\\out\\controls" "--buildSource" "MSBuild"
+  
+  [18:01:44] [build]  Initializing...
+  [18:01:44] [build]  Validating manifest...
+  [18:01:44] [build]  Validating control...
+  [18:01:47] [build]  Generating manifest types...
+  [18:01:47] [build]  Generating design types...
+  [18:01:47] [build]  Compiling and bundling control...
+  [BABEL] Note: The code generator has deoptimised the styling of C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\Forms\TextInput\node_modules\react-dom\cjs\react-dom.development.js as it exceeds the max of 500KB.
+  [Webpack stats]:
+  Hash: bdba644353ce2e179755
+  Version: webpack 4.42.1
+  Time: 10627ms
+  Built at: 17/11/2021 18:01:57
+      Asset      Size  Chunks             Chunk Names
+  bundle.js  1.51 MiB    main  [emitted]  main
+  Entrypoint main = bundle.js
+  [./TextInputController/TextFieldInput.tsx] 1.7 KiB {main} [built]
+  [./TextInputController/index.ts] 3.22 KiB {main} [built]
+  [./node_modules/@fluentui/react/lib/TextField.js] 53 bytes {main} [built]
+  [./node_modules/object-assign/index.js] 2.17 KiB {main} [built]
+  [./node_modules/office-ui-fabric-react/lib/TextField.js] 45 bytes {main} [built]
+  [./node_modules/office-ui-fabric-react/lib/components/TextField/index.js] 113 bytes {main} [built]
+  [./node_modules/prop-types/checkPropTypes.js] 3.57 KiB {main} [built]
+  [./node_modules/prop-types/lib/ReactPropTypesSecret.js] 311 bytes {main} [built]
+  [./node_modules/react-dom/cjs/react-dom.development.js] 647 KiB {main} [built]
+  [./node_modules/react-dom/index.js] 1.32 KiB {main} [built]
+  [./node_modules/react/cjs/react.development.js] 68.6 KiB {main} [built]
+  [./node_modules/react/index.js] 189 bytes {main} [built]
+  [./node_modules/scheduler/cjs/scheduler-tracing.development.js] 11.5 KiB {main} [built]
+  [./node_modules/scheduler/index.js] 197 bytes {main} [built]
+  [./node_modules/scheduler/tracing.js] 213 bytes {main} [built]
+      + 191 hidden modules
+  [18:01:57] [build]  Generating build outputs...
+  [18:01:57] [build]  Succeeded
+  [pcf-1059] [Info] Did not detect a themed control. Processing as regular control.
+  Running Solution Packager to build package type: Unmanaged bin\Debug\PowerAppsTools_del.zip
+  Solution: bin\Debug\PowerAppsTools_del.zip generated.
+  Solution Package Type: Unmanaged generated.
+  Completed intermiediate files clean up.

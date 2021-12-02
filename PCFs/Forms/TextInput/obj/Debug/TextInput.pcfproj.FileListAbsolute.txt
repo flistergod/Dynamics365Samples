@@ -1,0 +1,2 @@
+C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\Forms\TextInput\obj\Debug\TextInput.pcfproj.AssemblyReference.cache
+C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\Forms\TextInput\obj\Debug\TextInput.pcfproj.CoreCompileInputs.cache

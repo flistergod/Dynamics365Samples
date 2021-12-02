@@ -1,0 +1,2 @@
+C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\Forms\SampleGrid\obj\Debug\SampleGrid.pcfproj.AssemblyReference.cache
+C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\Forms\SampleGrid\obj\Debug\SampleGrid.pcfproj.CoreCompileInputs.cache

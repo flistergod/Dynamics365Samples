@@ -1,0 +1,19 @@
+2021-11-17 18:01:59.114 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\Forms\TextInput\obj\PowerAppsTools_del\obj\Debug\Metadata to bin\Debug\PowerAppsTools_del.zip
+
+2021-11-17 18:01:59.144 - Info	Processing Component: Entities
+2021-11-17 18:01:59.153 - Info	Processing Component: Roles
+2021-11-17 18:01:59.160 - Info	Processing Component: Workflows
+2021-11-17 18:01:59.160 - Info	Processing Component: FieldSecurityProfiles
+2021-11-17 18:01:59.161 - Info	Processing Component: Templates
+2021-11-17 18:01:59.164 - Info	Processing Component: EntityMaps
+2021-11-17 18:01:59.165 - Info	Processing Component: EntityRelationships
+2021-11-17 18:01:59.174 - Info	Processing Component: OrganizationSettings
+2021-11-17 18:01:59.176 - Info	Processing Component: optionsets
+2021-11-17 18:01:59.176 - Info	Processing Component: CustomControls
+2021-11-17 18:01:59.192 - Info	 - TextInputController.TextInputController
+2021-11-17 18:01:59.199 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-17 18:01:59.202 - Info	Processing Component: EntityDataProviders
+2021-11-17 18:01:59.400 - Info	
+Unmanaged Pack complete.
+

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Ja6iZBwSZ3U98B9DiZFqa1MIAKDVw1gh5FLCewiACMmy8uRRiCAB1UdYSFbcIB8eL3t8d62AUyaY1jVrjSVWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Findmore\\Desktop\\Dynamics\\Samples\\PCFs\\PoweApps\\canvasdnd\\obj\\PowerAppsTools_del\\PowerAppsTools_del.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Findmore\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Findmore\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\Findmore\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.9.9\\microsoft.powerapps.msbuild.pcf.1.9.9.nupkg.sha512",
+    "C:\\Users\\Findmore\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.9.9\\microsoft.powerapps.msbuild.solution.1.9.9.nupkg.sha512"
+  ],
+  "logs": []
+}

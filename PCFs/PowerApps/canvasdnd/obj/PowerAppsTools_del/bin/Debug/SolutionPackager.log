@@ -1,0 +1,19 @@
+2021-11-19 15:18:44.599 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\PoweApps\canvasdnd\obj\PowerAppsTools_del\obj\Debug\Metadata to bin\Debug\PowerAppsTools_del.zip
+
+2021-11-19 15:18:44.612 - Info	Processing Component: Entities
+2021-11-19 15:18:44.616 - Info	Processing Component: Roles
+2021-11-19 15:18:44.621 - Info	Processing Component: Workflows
+2021-11-19 15:18:44.621 - Info	Processing Component: FieldSecurityProfiles
+2021-11-19 15:18:44.622 - Info	Processing Component: Templates
+2021-11-19 15:18:44.623 - Info	Processing Component: EntityMaps
+2021-11-19 15:18:44.624 - Info	Processing Component: EntityRelationships
+2021-11-19 15:18:44.629 - Info	Processing Component: OrganizationSettings
+2021-11-19 15:18:44.630 - Info	Processing Component: optionsets
+2021-11-19 15:18:44.630 - Info	Processing Component: CustomControls
+2021-11-19 15:18:44.639 - Info	 - canvasdnd.canvasdnd
+2021-11-19 15:18:44.645 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-19 15:18:44.647 - Info	Processing Component: EntityDataProviders
+2021-11-19 15:18:44.672 - Info	
+Unmanaged Pack complete.
+

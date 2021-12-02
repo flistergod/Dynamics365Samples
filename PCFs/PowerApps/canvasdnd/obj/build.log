@@ -1,0 +1,52 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+  
+  > pcf-project@1.0.0 clean
+  > pcf-scripts clean "--noColor" "--buildMode" "development" "--outDir" "C:\\Users\\Findmore\\Desktop\\Dynamics\\Samples\\PCFs\\PoweApps\\canvasdnd\\out\\controls" "--buildSource" "MSBuild"
+  
+  [15:18:34] [clean]  Initializing...
+  [15:18:34] [clean]  Cleaning build outputs...
+  [15:18:34] [clean]  Succeeded
+  Cleaning output directory: bin\Debug\, Intermediate directory: obj\Debug\ and Solution Packager working directory: obj\Debug\
+  Removing log file: bin\Debug\SolutionPackager.log and generated solution package: bin\Debug\PowerAppsTools_del.zip
+  
+  > pcf-project@1.0.0 build
+  > pcf-scripts build "--noColor" "--buildMode" "development" "--outDir" "C:\\Users\\Findmore\\Desktop\\Dynamics\\Samples\\PCFs\\PoweApps\\canvasdnd\\out\\controls" "--buildSource" "MSBuild"
+  
+  [15:18:38] [build]  Initializing...
+  [15:18:38] [build]  Validating manifest...
+  [15:18:38] [build]  Validating control...
+  [15:18:40] [build]  Generating manifest types...
+  [15:18:40] [build]  Generating design types...
+  [15:18:40] [build]  Compiling and bundling control...
+  [Webpack stats]:
+  Hash: 6221b2af4b5b438ebb29
+  Version: webpack 4.42.1
+  Time: 2987ms
+  Built at: 19/11/2021 15:18:43
+      Asset      Size  Chunks             Chunk Names
+  bundle.js  72.4 KiB    main  [emitted]  main
+  Entrypoint main = bundle.js
+  [./canvasdnd/DatasetStateManager.ts] 6.5 KiB {main} [built]
+  [./canvasdnd/PropertyBagState.ts] 4.82 KiB {main} [built]
+  [./canvasdnd/index.ts] 9.99 KiB {main} [built]
+  [./node_modules/atoa/atoa.js] 84 bytes {main} [built]
+  [./node_modules/contra/debounce.js] 200 bytes {main} [built]
+  [./node_modules/contra/emitter.js] 1.53 KiB {main} [built]
+  [./node_modules/crossvent/src/crossvent.js] 2.45 KiB {main} [built]
+  [./node_modules/crossvent/src/eventmap.js] 201 bytes {main} [built]
+  [./node_modules/custom-event/index.js] 1.13 KiB {main} [built]
+  [./node_modules/dragula/classes.js] 683 bytes {main} [built]
+  [./node_modules/dragula/dragula.js] 17.2 KiB {main} [built]
+  [./node_modules/setimmediate/setImmediate.js] 5.81 KiB {main} [built]
+  [./node_modules/ticky/ticky-browser.js] 213 bytes {main} [built]
+  [./node_modules/timers-browserify/main.js] 1.85 KiB {main} [built]
+  [./node_modules/webpack/buildin/global.js] (webpack)/buildin/global.js 475 bytes {main} [built]
+      + 1 hidden module
+  [15:18:43] [build]  Generating build outputs...
+  [15:18:43] [build]  Succeeded
+  [pcf-1059] [Info] Did not detect a themed control. Processing as regular control.
+  Running Solution Packager to build package type: Unmanaged bin\Debug\PowerAppsTools_del.zip
+  Solution: bin\Debug\PowerAppsTools_del.zip generated.
+  Solution Package Type: Unmanaged generated.
+  Completed intermiediate files clean up.

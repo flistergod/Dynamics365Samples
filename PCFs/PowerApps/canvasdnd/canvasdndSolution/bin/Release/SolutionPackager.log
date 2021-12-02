@@ -1,0 +1,19 @@
+2021-11-19 12:04:29.499 - Info	
+Packing C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\PoweApps\canvasdnd\canvasdndSolution\obj\Release\Metadata to bin\Release\canvasdndSolution.zip
+
+2021-11-19 12:04:29.513 - Info	Processing Component: Entities
+2021-11-19 12:04:29.516 - Info	Processing Component: Roles
+2021-11-19 12:04:29.520 - Info	Processing Component: Workflows
+2021-11-19 12:04:29.521 - Info	Processing Component: FieldSecurityProfiles
+2021-11-19 12:04:29.523 - Info	Processing Component: Templates
+2021-11-19 12:04:29.524 - Info	Processing Component: EntityMaps
+2021-11-19 12:04:29.525 - Info	Processing Component: EntityRelationships
+2021-11-19 12:04:29.530 - Info	Processing Component: OrganizationSettings
+2021-11-19 12:04:29.531 - Info	Processing Component: optionsets
+2021-11-19 12:04:29.532 - Info	Processing Component: CustomControls
+2021-11-19 12:04:29.542 - Info	 - canvasdnd.canvasdnd
+2021-11-19 12:04:29.548 - Info	Processing Component: SolutionPluginAssemblies
+2021-11-19 12:04:29.550 - Info	Processing Component: EntityDataProviders
+2021-11-19 12:04:29.573 - Info	
+Managed Pack complete.
+

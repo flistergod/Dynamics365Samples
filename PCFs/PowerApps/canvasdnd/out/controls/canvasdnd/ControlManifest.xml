@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="canvasdnd" constructor="canvasdnd" version="0.0.9" display-name-key="canvasdnd1" description-key="canvasdnd2" control-type="standard" api-version="1.3.3">
+    <property name="DropZoneID" description-key="Property_Description_Key_DropZoneID" display-name-key="Property_Display_Key_DropZoneID" required="true" usage="input" of-type="SingleLine.Text"/>
+    <property name="OtherDropZoneIDs" description-key="Property_Description_Key_OtherDropZoneIDs" display-name-key="Property_Display_Key_OtherDropZoneIDs" required="true" usage="input" of-type="SingleLine.Text"/>
+    <property name="IsMasterZone" description-key="Property_Description_Key_IsMasterZone" display-name-key="Property_Display_Key_IsMasterZone" required="true" usage="input" of-type="TwoOptions"/>
+    <property name="DroppedSource" description-key="Property_Description_Key_DroppedSource" display-name-key="Property_Display_Key_DroppedSource" required="true" usage="bound" of-type="SingleLine.Text"/>
+    <property name="DroppedTarget" description-key="Property_Description_Key_DroppedTarget" display-name-key="Property_Display_Key_DroppedTarget" required="true" usage="bound" of-type="SingleLine.Text"/>
+    <property name="DroppedId" description-key="Property_Description_Key_DroppedId" display-name-key="Dropped Id" required="true" usage="bound" of-type="SingleLine.Text"/>
+    <property name="DroppedBeforeId" description-key="Property_Description_Key_DroppedBeforeId" display-name-key="Property_Display_Key_DroppedBeforeId" required="true" usage="bound" of-type="SingleLine.Text"/>
+    <property name="ItemBackgroundColour" description-key="Property_Description_Key_ItemBackgroundColour" display-name-key="Property_Display_Key_ItemBackgroundColour" required="true" usage="input" of-type="SingleLine.Text"/>
+    <property name="ItemFontSize" description-key="Property_Description_Key_ItemFontSize" display-name-key="Property_Display_Key_ItemFontSize" required="true" usage="input" of-type="Decimal"/>
+    <property name="ItemFontColour" description-key="Property_Description_Key_ItemFontColour" display-name-key="Property_Display_Key_ItemFontColour" required="true" usage="input" of-type="SingleLine.Text"/>
+    <data-set name="items" display-name-key="canvasdnd4" cds-data-set-options="displayViewSelector:true"/>
+    <resources>
+      <code path="bundle.js" order="1"/>
+      <css path="css/canvasdnd.css" order="1"/>
+      <resx path="strings/canvasdnd.1033.resx" version="1.0.0"/>
+    </resources>
+    <built-by name="pac" version="1.9.9"/>
+  </control>
+</manifest>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZIdBw652rIVU/iqwR0Rp0Y4N1GKzqWuYnUu8EekYhlz0bAmfRmdBkIe43wCGHvE8xRab939Rk7xKNBMn2uYPFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Findmore\\Desktop\\Dynamics\\Samples\\PCFs\\PoweApps\\canvasdnd\\canvasdnd.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Findmore\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Findmore\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\Findmore\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.9.9\\microsoft.powerapps.msbuild.pcf.1.9.9.nupkg.sha512"
+  ],
+  "logs": []
+}

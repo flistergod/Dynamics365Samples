@@ -1,0 +1,2 @@
+C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\PoweApps\canvasdnd\obj\Release\canvasdnd.pcfproj.AssemblyReference.cache
+C:\Users\Findmore\Desktop\Dynamics\Samples\PCFs\PoweApps\canvasdnd\obj\Release\canvasdnd.pcfproj.CoreCompileInputs.cache
